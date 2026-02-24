@@ -1,0 +1,11 @@
+   WelcomeScreen
+    /       \
+Signup      Login
+   |          |
+Profile       |
+   |          |
+Baseline      |
+   \         /
+    Dashboard __________________
+    /       \                   |
+Schedule    StartWorkout      Stats
