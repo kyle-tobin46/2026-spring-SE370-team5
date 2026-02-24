@@ -1,0 +1,9 @@
+Formulas used to calculate 1 rep max
+====================================
+Epley formula:
+1RM = Weight x (1 + Reps/30)
+
+Brzycki formula:
+1RM = Weight x (36/(37-Reps))
+
+sidenote: Epley formula is more aggressive of an estimation, most likely suitable for more experienced lifters, rather than the novice lifter.
