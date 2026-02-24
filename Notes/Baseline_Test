@@ -1,0 +1,26 @@
+Baseline test:
+
+1. Pushups
+App plays a metronome at 60 bpm. User goes down on one beat, then back up on the next beat, then hold the top position for one beat.
+
+Down    (beat 1)
+Up      (beat 2)
+"One"   (beat 3)
+Down    (beat 4)
+Up      (beat 5)
+"Two"   (beat 6)
+...
+
+
+2. Pullups (optional, if possible)
+Just as many as the user can get consecutively
+
+
+3. Squat Jumps
+App plays a metronome at 60 bpm. User goes down on one beat, then back up on the next beat.
+
+Down    (beat 1)
+Up "one"(beat 2)
+Down    (beat 3)
+Up "two"(beat 4)
+...
